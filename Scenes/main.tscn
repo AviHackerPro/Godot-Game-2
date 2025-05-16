@@ -18,7 +18,7 @@ texture = ExtResource("1_bo1nx")
 expand_mode = 1
 
 [node name="CharacterBody2D" parent="." instance=ExtResource("2_bo1nx")]
-position = Vector2(155, 487)
+position = Vector2(113, 503)
 
 [node name="TileMap" type="TileMap" parent="."]
 tile_set = SubResource("TileSet_jjvhh")
