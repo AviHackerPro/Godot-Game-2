@@ -11,8 +11,8 @@ config_version=5
 [application]
 
 config/name="Godot Game 2"
+run/main_scene="uid://sh4nk6vas8jt"
 config/features=PackedStringArray("4.4", "Mobile")
-config/icon="res://icon.svg"
 
 [rendering]
 
